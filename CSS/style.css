@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #f8f7f6;
+}
+
+body::-webkit-scrollbar{
+    width: 0%;
+}
+
+ #tela{
+    width: 1349.6px;
+    height: 686px;
+    border: 5px solid #d16ba5;
+    background: #fff;
+}
